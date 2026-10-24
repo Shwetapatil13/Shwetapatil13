@@ -97,7 +97,7 @@ A village insights and sustainability project that uses geospatial data and envi
 <td align="center" width="25%" valign="top">
 <h1>🥇</h1>
 <b>National Hackathon Winner</b><br><br>
-<img src="https://img.shields.io/badge/First_Place-D4A017?style=for-the-badge&labelColor=05080d" />
+<img src="https://img.shields.io/badge/First_Place-D4A017?style=for-the-badge&labelColor=05080d" /><br><br>
 <sub>Agriculture domain · Team of 2</sub>
 </td>
 <td align="center" width="25%" valign="top">
